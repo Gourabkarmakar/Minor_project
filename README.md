@@ -1,19 +1,16 @@
 # Todo Application using ReactJS and Firebase
-
+#Developed By Gourab Karmakar
 -----
 
 ### Account creation:
 
-![Account](doc/images/Account.gif)
 
-### Todo Dashboard:
+
+### Password Dashboard:
 
 ![Account](doc/images/Todo.gif)
 
 
-### Application Architecture:
-
-![Application Architecture](doc/images/TodoApp.png)
 
 ### Components used in the Application:
 
